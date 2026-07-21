@@ -21,12 +21,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wenjunyun123&theme=tokyonight&hide_border=true&ring=38BDAE&fire=7AA2F7&currStreakLabel=38BDAE&sideNums=7AA2F7&currStreakNum=7AA2F7" alt="GitHub Streak Stats" />
   <br/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wenjunyun123/Wenjunyun123/output/github-contribution-grid-snake-dark.svg?v=linear-growth-20260722" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wenjunyun123/Wenjunyun123/output/github-contribution-grid-snake.svg?v=linear-growth-20260722" />
-    <img src="https://raw.githubusercontent.com/Wenjunyun123/Wenjunyun123/output/github-contribution-grid-snake.svg?v=linear-growth-20260722" alt="GitHub Contribution Snake" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wenjunyun123/Wenjunyun123/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wenjunyun123/Wenjunyun123/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Wenjunyun123/Wenjunyun123/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
   </picture>
-  <br/>
-  <sub>The snake grows linearly with the real contribution count it eats.</sub>
 </div>
 
 <br/>

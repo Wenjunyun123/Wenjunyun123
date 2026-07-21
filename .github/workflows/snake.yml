@@ -13,12 +13,6 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
-      - name: Check out growth logic
-        uses: actions/checkout@v4
-
-      - name: Test contribution growth logic
-        run: python -m unittest discover -s .github/scripts/tests -v
-
       - name: Generate SVG files
         uses: Platane/snk/svg-only@v3
         with:
@@ -26,17 +20,6 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg?color_snake=%237AA2F7&color_dots=%23EBEDF0,%23B8F2E6,%2376D7C4,%2338BDAE,%231F7F74
             dist/github-contribution-grid-snake-dark.svg?color_snake=%237AA2F7&color_dots=%23161B22,%230F3D3E,%231B6B68,%2338BDAE,%2376E4D2
-
-      - name: Grow snake from real contribution counts
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GITHUB_USER: ${{ github.repository_owner }}
-        run: >-
-          python .github/scripts/grow_snake.py
-          --user "$GITHUB_USER"
-          --max-scale 1.65
-          dist/github-contribution-grid-snake.svg
-          dist/github-contribution-grid-snake-dark.svg
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
