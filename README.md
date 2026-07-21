@@ -35,14 +35,14 @@ const wenjun = {
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>🛒 SmartCross Agent</h3>
-      <p>基于 React、TypeScript 与 AI 的跨境电商智能选品及营销 SaaS。</p>
-      <a href="https://github.com/Wenjunyun123/smartcross-agent">View repository →</a>
+      <h3>🖥️ Personal Website</h3>
+      <p>面向招聘与技术品牌展示的双语 AI 前端工程师个人网站。</p>
+      <a href="https://github.com/Wenjunyun123/personal-website-development">View repository →</a>
     </td>
     <td width="33%" valign="top">
-      <h3>🤖 Cognimark Agent</h3>
-      <p>用 Python 探索 Agent 能力与智能化工作流。</p>
-      <a href="https://github.com/Wenjunyun123/Cognimark_Agent">View repository →</a>
+      <h3>🧩 Codex Skill KB</h3>
+      <p>面向 Codex 的仓库研究、技能沉淀与自动化实践集合。</p>
+      <a href="https://github.com/Wenjunyun123/codex-skill-github-repo">View repository →</a>
     </td>
     <td width="33%" valign="top">
       <h3>🧭 Deep Learning Coach</h3>
@@ -52,18 +52,48 @@ const wenjun = {
   </tr>
 </table>
 
-## 🧰 Tech stack
+## 🧰 Tech stack & toolkit
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111827?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
-![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB)
-![Figma](https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=F24E1E)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111827?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+### Frontend & Product UI
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,tailwind,nodejs,python,md&theme=dark&perline=11" alt="HTML, CSS, JavaScript, TypeScript, React, Vue, Next.js, Tailwind CSS, Node.js, Python and Markdown" />
+
+### AI & Agent Engineering
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,postman,graphql,docker&theme=dark&perline=6" alt="Python, FastAPI, Node.js, Postman, GraphQL and Docker" />
+
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-111827?style=flat-square&logo=openai&logoColor=10A37F)
+![LangChain](https://img.shields.io/badge/LangChain-111827?style=flat-square&logo=langchain&logoColor=white)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-111827?style=flat-square)
+![Agent Workflows](https://img.shields.io/badge/Agent_Workflows-111827?style=flat-square&logo=probot&logoColor=8B5CF6)
+![n8n](https://img.shields.io/badge/n8n-111827?style=flat-square&logo=n8n&logoColor=EA4B71)
+
+### AI Coding & Developer Tools
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,linux,windows,powershell,bash,docker&theme=dark&perline=8" alt="VS Code, Git, GitHub, Linux, Windows, PowerShell, Bash and Docker" />
+
+![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-111827?style=flat-square&logo=openai&logoColor=10A37F)
+![Claude Code](https://img.shields.io/badge/Claude_Code-111827?style=flat-square&logo=anthropic&logoColor=D97757)
+![OpenCode](https://img.shields.io/badge/OpenCode-111827?style=flat-square)
+![GitHub CLI](https://img.shields.io/badge/GitHub_CLI-111827?style=flat-square&logo=github&logoColor=white)
+
+### Automation, CI/CD & Deployment
+
+<img src="https://skillicons.dev/icons?i=githubactions,vercel,docker,git,bash,powershell&theme=dark&perline=6" alt="GitHub Actions, Vercel, Docker, Git, Bash and PowerShell" />
+
+![Tencent EdgeOne](https://img.shields.io/badge/Tencent_EdgeOne-111827?style=flat-square&logo=tencentcloud&logoColor=00A4FF)
+![Feishu Automation](https://img.shields.io/badge/Feishu_Automation-111827?style=flat-square)
+![REST API](https://img.shields.io/badge/REST_API-111827?style=flat-square&logo=fastapi&logoColor=009688)
+
+### Design & Delivery Platforms
+
+<img src="https://skillicons.dev/icons?i=figma,ai,ps,pr,ae,xd&theme=dark&perline=6" alt="Figma, Illustrator, Photoshop, Premiere Pro, After Effects and Adobe XD" />
+
+![Canva](https://img.shields.io/badge/Canva-111827?style=flat-square&logo=canva&logoColor=00C4CC)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-111827?style=flat-square&logo=microsoft&logoColor=white)
+![Feishu / Lark](https://img.shields.io/badge/Feishu_%2F_Lark-111827?style=flat-square)
 
 </div>
 
