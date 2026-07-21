@@ -18,7 +18,7 @@
 ### Git Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wenjunyun123&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wenjunyun123&theme=tokyonight&hide_border=true&ring=38BDAE&fire=7AA2F7&currStreakLabel=38BDAE&sideNums=7AA2F7&currStreakNum=7AA2F7" alt="GitHub Streak Stats" />
   <br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wenjunyun123/Wenjunyun123/output/github-contribution-grid-snake-dark.svg" />
