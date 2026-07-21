@@ -1,120 +1,55 @@
-<p align="center">
-  <img src="./assets/pixel-agent-world.svg" width="100%" alt="Dario.Y Pixel Agent World" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Wenjunyun123"><strong>⌂ HOME</strong></a>
-  &nbsp;&nbsp;│&nbsp;&nbsp;
-  <a href="https://github.com/Wenjunyun123?tab=repositories"><strong>▦ WORLDS</strong></a>
-  &nbsp;&nbsp;│&nbsp;&nbsp;
-  <a href="https://space.bilibili.com/424758400"><strong>▶ BILIBILI</strong></a>
-</p>
-
----
-
-## `PLAYER_01 // PROFILE`
-
-<table>
-  <tr>
-    <td width="58%" valign="top">
-      <h3>Hey, I'm Dario.Y.</h3>
-      <p>
-        AI Frontend Engineer & Agent Builder。<br/>
-        我把模型、界面和自动化流程拼成真正能用的产品系统。
-      </p>
-      <p><strong>Current quest:</strong> 让 AI 能力更可操作，让复杂工作流更可观察。</p>
-    </td>
-    <td width="42%" valign="top">
-      <pre><code>CLASS   AI Frontend Engineer
-MODE    Creative / Shipping
-SPAWN   Shanghai, CN
-BUFF    Agent + UI + Automation
-MOTTO   Systems, not demos.</code></pre>
-    </td>
-  </tr>
-</table>
-
-## `QUEST LOG // SELECTED BUILDS`
-
-| Slot | Build | Quest objective | Materials |
-|:--:|:--|:--|:--|
-| `01` | **[Personal Website](https://github.com/Wenjunyun123/personal-website-development)** | 构建面向招聘与技术品牌的双语个人站点 | TypeScript · Next.js · MDX |
-| `02` | **[Codex Skill Knowledge Base](https://github.com/Wenjunyun123/codex-skill-github-repo)** | 把仓库研究沉淀成可复用的 Agent Skills | Python · Shell · TypeScript |
-| `03` | **[Deep Learning Coach](https://github.com/Wenjunyun123/deep-learning-coach)** | 用苏格拉底式提问设计主动学习体验 | Agent Skill · Learning UX |
-| `04` | **[Personal Knowledge Base](https://github.com/Wenjunyun123/Personal-Knowledge-Base)** | 建造可检索、可连接、持续生长的知识世界 | Knowledge Ops · Markdown |
-
-## `INVENTORY // STACK & TOOLS`
-
 <div align="center">
 
-### `HOTBAR — PRODUCT INTERFACE`
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=38BDAE&center=true&vCenter=true&width=620&lines=Dario.Y;AI+Frontend+Engineer;TypeScript+%2F+Python+Builder;AI+Agent+Workflow+Explorer" alt="Typing SVG" />
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,tailwind,nodejs,python,md&theme=dark&perline=11" alt="Product interface inventory" />
-
-### `CRAFTING — AGENT ENGINEERING`
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,postman,graphql,docker&theme=dark&perline=6" alt="Agent engineering inventory" />
-
-<p>
-  <kbd>OpenAI API</kbd>
-  <kbd>LangChain</kbd>
-  <kbd>MCP</kbd>
-  <kbd>Agent Workflows</kbd>
-  <kbd>n8n</kbd>
-</p>
-
-### `TOOL BELT — AI CODING`
-
-<img src="https://skillicons.dev/icons?i=vscode,git,github,linux,windows,powershell,bash,docker&theme=dark&perline=8" alt="AI coding tool belt" />
-
-<p>
-  <kbd>OpenAI Codex</kbd>
-  <kbd>Claude Code</kbd>
-  <kbd>OpenCode</kbd>
-  <kbd>GitHub CLI</kbd>
-</p>
-
-### `WORKBENCH — DELIVERY & DESIGN`
-
-<img src="https://skillicons.dev/icons?i=githubactions,vercel,figma,ai,ps,pr,ae,xd&theme=dark&perline=8" alt="Delivery and design workbench" />
-
-<p>
-  <kbd>Tencent EdgeOne</kbd>
-  <kbd>Feishu / Lark</kbd>
-  <kbd>Canva</kbd>
-  <kbd>Microsoft 365</kbd>
-</p>
+  <p>
+    <a href="https://github.com/Wenjunyun123">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://space.bilibili.com/424758400">
+      <img src="https://img.shields.io/badge/Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white" alt="Bilibili" />
+    </a>
+  </p>
 
 </div>
 
-## `WORLD STATS // GITHUB MAP`
+---
 
-<p align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wenjunyun123&theme=github_dark" alt="Dario.Y GitHub world stats" />
-</p>
+### Git Stats
 
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Wenjunyun123&theme=github_dark" alt="Repositories per language" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Wenjunyun123&theme=github_dark" alt="Most committed languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wenjunyun123&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wenjunyun123/Wenjunyun123/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wenjunyun123/Wenjunyun123/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Wenjunyun123/Wenjunyun123/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  </picture>
+</div>
 
-## `PORTAL // BILIBILI`
+<br/>
 
-<table>
-  <tr>
-    <td width="72%">
-      <strong>CHANNEL 424758400 IS ONLINE</strong><br/>
-      <sub>AI 工具、Agent 工作流、前端实践，以及 Dario.Y 正在建造的新世界。</sub>
-    </td>
-    <td width="28%" align="right">
-      <a href="https://space.bilibili.com/424758400"><strong>ENTER PORTAL ▶</strong></a>
-    </td>
-  </tr>
-</table>
+### Tech Stack & Tools
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,nodejs,python,git,github,vscode,linux,powershell,figma&theme=dark" alt="Tech Stack" />
+  </a>
+  <br/>
+  <br/>
+  <img src="https://img.shields.io/badge/OpenAI_Codex-000000?style=flat-square&logo=openai&logoColor=white" alt="OpenAI Codex" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/OpenCode-1A1A1A?style=flat-square&logoColor=white" alt="OpenCode" />
+</div>
 
 ---
 
-<p align="center">
-  <code>BUILD ▪ EXPLORE ▪ SHIP ▪ REPEAT</code><br/>
-  <sub>DARIO.Y / PLAYER_01 / 2026</sub>
-</p>
+<div align="center">
+  <p>
+    Connect with me:
+    <a href="https://github.com/Wenjunyun123">GitHub</a> •
+    <a href="https://space.bilibili.com/424758400">Bilibili</a>
+  </p>
+
+  <p><sub>© 2026 Dario.Y</sub></p>
+</div>
