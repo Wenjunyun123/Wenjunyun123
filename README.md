@@ -1,124 +1,122 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/agent-ops-header.svg" width="100%" alt="Wenjun You — AI Operations Console" />
+</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:3B82F6,100:8B5CF6&height=220&section=header&text=Wenjun%20You&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Frontend%20Engineer%20%C2%B7%20Agent%20Builder%20%C2%B7%20AIGC%20Explorer&descSize=18&descAlignY=56" alt="Wenjun You — AI Frontend Engineer" />
-
-<a href="https://github.com/Wenjunyun123"><img src="https://img.shields.io/badge/GitHub-Wenjunyun123-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-<a href="https://space.bilibili.com/424758400"><img src="https://img.shields.io/badge/bilibili-关注我的频道-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="bilibili" /></a>
-<img src="https://komarev.com/ghpvc/?username=Wenjunyun123&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" alt="Profile views" />
-
-### 把 AI 能力，做成真正可交付的产品界面。
-
-`AI Product Interface` · `Agent Workflow` · `Automation` · `Plugin Engineering`
-
-</div>
+<p align="center">
+  <a href="https://github.com/Wenjunyun123"><strong>GITHUB / CODE</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://space.bilibili.com/424758400"><strong>BILIBILI / SIGNAL</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/Wenjunyun123?tab=repositories"><strong>PROJECTS / INDEX</strong></a>
+</p>
 
 ---
 
-## 👋 About me
-
-```ts
-const wenjun = {
-  role: "AI Frontend Engineer",
-  focus: ["AI product interfaces", "Agent workflows", "Automation systems"],
-  building: ["Release tooling", "Knowledge workflows", "Practical AI products"],
-  philosophy: "Ship useful systems, not just impressive demos.",
-};
-```
-
-- 🧠 关注 AI 产品界面、Agent 工作流与人机协作体验
-- 🛠️ 喜欢把模糊流程做成可观察、可复用、可交付的系统
-- 🚀 持续实践前端工程、自动化、插件交付与 AIGC 应用
-- 📺 在 [bilibili](https://space.bilibili.com/424758400) 分享我的探索与实践
-
-## ✨ Featured work
+## `00 / OPERATOR`
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <h3>🖥️ Personal Website</h3>
-      <p>面向招聘与技术品牌展示的双语 AI 前端工程师个人网站。</p>
-      <a href="https://github.com/Wenjunyun123/personal-website-development">View repository →</a>
+    <td width="62%" valign="top">
+      <h3>把 AI 能力装进真实工作流。</h3>
+      <p>
+        我是 <strong>Wenjun You</strong>，一名 AI Frontend Engineer。我的工作位于产品界面、
+        Agent 系统与自动化交付的交叉点：让模型能力可操作、让复杂流程可观察、让实验真正进入生产。
+      </p>
+      <p><em>I design the interface between people, AI, and real work.</em></p>
     </td>
-    <td width="33%" valign="top">
-      <h3>🧩 Codex Skill KB</h3>
-      <p>面向 Codex 的仓库研究、技能沉淀与自动化实践集合。</p>
-      <a href="https://github.com/Wenjunyun123/codex-skill-github-repo">View repository →</a>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🧭 Deep Learning Coach</h3>
-      <p>通过苏格拉底式提问，引导更深入、更主动的学习过程。</p>
-      <a href="https://github.com/Wenjunyun123/deep-learning-coach">View repository →</a>
+    <td width="38%" valign="top">
+      <pre><code>ROLE    AI Frontend Engineer
+MODE    Build → Observe → Ship
+FOCUS   Agent / UI / Automation
+BASE    Shanghai, CN
+STATUS  Open to useful systems</code></pre>
     </td>
   </tr>
 </table>
 
-## 🧰 Tech stack & toolkit
+> **OPERATING PRINCIPLE** — Ship useful systems, not just impressive demos.
+
+## `01 / SYSTEM INDEX`
+
+| ID | System | What it explores | Public signal |
+|:--:|:--|:--|:--|
+| `A-01` | **[Personal Website](https://github.com/Wenjunyun123/personal-website-development)** | AI 工程师个人品牌、双语内容与前端交付 | TypeScript · Next.js · MDX |
+| `A-02` | **[Codex Skill Knowledge Base](https://github.com/Wenjunyun123/codex-skill-github-repo)** | 仓库研究、Agent Skills 与可复用自动化流程 | Python · Shell · TypeScript |
+| `A-03` | **[Deep Learning Coach](https://github.com/Wenjunyun123/deep-learning-coach)** | 用苏格拉底式提问构建主动学习体验 | Agent Skill · Learning UX |
+| `A-04` | **[Personal Knowledge Base](https://github.com/Wenjunyun123/Personal-Knowledge-Base)** | 把零散探索沉淀成可检索、可连接的知识系统 | Knowledge Ops · Markdown |
+
+## `02 / TOOLCHAIN MAP`
 
 <div align="center">
 
-### Frontend & Product UI
+### `L0 — PRODUCT INTERFACE`
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,tailwind,nodejs,python,md&theme=dark&perline=11" alt="HTML, CSS, JavaScript, TypeScript, React, Vue, Next.js, Tailwind CSS, Node.js, Python and Markdown" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,tailwind,nodejs,python,md&theme=dark&perline=11" alt="Frontend and product interface tools" />
 
-### AI & Agent Engineering
+### `L1 — AGENT RUNTIME`
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,postman,graphql,docker&theme=dark&perline=6" alt="Python, FastAPI, Node.js, Postman, GraphQL and Docker" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,postman,graphql,docker&theme=dark&perline=6" alt="Agent engineering foundations" />
 
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-111827?style=flat-square&logo=openai&logoColor=10A37F)
-![LangChain](https://img.shields.io/badge/LangChain-111827?style=flat-square&logo=langchain&logoColor=white)
-![MCP](https://img.shields.io/badge/Model_Context_Protocol-111827?style=flat-square)
-![Agent Workflows](https://img.shields.io/badge/Agent_Workflows-111827?style=flat-square&logo=probot&logoColor=8B5CF6)
-![n8n](https://img.shields.io/badge/n8n-111827?style=flat-square&logo=n8n&logoColor=EA4B71)
+<p>
+  <kbd>OpenAI API</kbd>
+  <kbd>LangChain</kbd>
+  <kbd>MCP</kbd>
+  <kbd>Agent Workflows</kbd>
+  <kbd>n8n</kbd>
+</p>
 
-### AI Coding & Developer Tools
+### `L2 — AI CODING ENVIRONMENT`
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,linux,windows,powershell,bash,docker&theme=dark&perline=8" alt="VS Code, Git, GitHub, Linux, Windows, PowerShell, Bash and Docker" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,linux,windows,powershell,bash,docker&theme=dark&perline=8" alt="Developer environment tools" />
 
-![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-111827?style=flat-square&logo=openai&logoColor=10A37F)
-![Claude Code](https://img.shields.io/badge/Claude_Code-111827?style=flat-square&logo=anthropic&logoColor=D97757)
-![OpenCode](https://img.shields.io/badge/OpenCode-111827?style=flat-square)
-![GitHub CLI](https://img.shields.io/badge/GitHub_CLI-111827?style=flat-square&logo=github&logoColor=white)
+<p>
+  <kbd>OpenAI Codex</kbd>
+  <kbd>Claude Code</kbd>
+  <kbd>OpenCode</kbd>
+  <kbd>GitHub CLI</kbd>
+</p>
 
-### Automation, CI/CD & Deployment
+### `L3 — DELIVERY & DESIGN`
 
-<img src="https://skillicons.dev/icons?i=githubactions,vercel,docker,git,bash,powershell&theme=dark&perline=6" alt="GitHub Actions, Vercel, Docker, Git, Bash and PowerShell" />
+<img src="https://skillicons.dev/icons?i=githubactions,vercel,figma,ai,ps,pr,ae,xd&theme=dark&perline=8" alt="Delivery and design tools" />
 
-![Tencent EdgeOne](https://img.shields.io/badge/Tencent_EdgeOne-111827?style=flat-square&logo=tencentcloud&logoColor=00A4FF)
-![Feishu Automation](https://img.shields.io/badge/Feishu_Automation-111827?style=flat-square)
-![REST API](https://img.shields.io/badge/REST_API-111827?style=flat-square&logo=fastapi&logoColor=009688)
-
-### Design & Delivery Platforms
-
-<img src="https://skillicons.dev/icons?i=figma,ai,ps,pr,ae,xd&theme=dark&perline=6" alt="Figma, Illustrator, Photoshop, Premiere Pro, After Effects and Adobe XD" />
-
-![Canva](https://img.shields.io/badge/Canva-111827?style=flat-square&logo=canva&logoColor=00C4CC)
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-111827?style=flat-square&logo=microsoft&logoColor=white)
-![Feishu / Lark](https://img.shields.io/badge/Feishu_%2F_Lark-111827?style=flat-square)
-
-</div>
-
-## 📊 GitHub activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Wenjunyun123&show_icons=true&hide_border=true&count_private=true&theme=transparent&title_color=6366f1&icon_color=06b6d4&text_color=64748b" alt="Wenjun's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wenjunyun123&layout=compact&hide_border=true&theme=transparent&title_color=6366f1&text_color=64748b" alt="Most used languages" />
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Wenjunyun123&bg_color=00000000&color=6366f1&line=06b6d4&point=8b5cf6&area=true&hide_border=true" alt="Contribution graph" />
+<p>
+  <kbd>Tencent EdgeOne</kbd>
+  <kbd>Feishu / Lark</kbd>
+  <kbd>Canva</kbd>
+  <kbd>Microsoft 365</kbd>
+</p>
 
 </div>
+
+## `03 / SYSTEM TELEMETRY`
+
+<p align="center">
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wenjunyun123&theme=github_dark" alt="GitHub profile telemetry" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Wenjunyun123&theme=github_dark" alt="Repositories per language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Wenjunyun123&theme=github_dark" alt="Most committed languages" />
+</p>
+
+## `04 / OPEN CHANNEL`
+
+<table>
+  <tr>
+    <td width="72%">
+      <strong>BILIBILI TRANSMISSION / 424758400</strong><br/>
+      <sub>AI 工具、Agent 工作流、前端实践与正在发生的技术探索。</sub>
+    </td>
+    <td width="28%" align="right">
+      <a href="https://space.bilibili.com/424758400"><strong>OPEN CHANNEL ↗</strong></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<div align="center">
-
-### Let's build something useful.
-
-[![GitHub](https://img.shields.io/badge/Explore_my_code-181717?style=flat-square&logo=github)](https://github.com/Wenjunyun123)
-[![bilibili](https://img.shields.io/badge/Watch_on_bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/424758400)
-
-<sub>Designing the interface between people, AI, and real work.</sub>
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:3B82F6,100:06B6D4&height=110&section=footer" alt="Footer" />
+<p align="center">
+  <code>BUILD / OBSERVE / SHIP</code><br/>
+  <sub>WENJUN YOU · AI OPERATIONS · 2026</sub>
+</p>
