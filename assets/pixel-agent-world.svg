@@ -58,33 +58,57 @@
     <rect x="262" y="44" width="40" height="96" fill="#132d54"/>
     <rect x="270" y="52" width="24" height="80" fill="#7fe6ff" opacity="0.65"/>
 
-    <!-- builder head -->
-    <rect x="60" y="18" width="96" height="16" fill="#233150"/>
-    <rect x="44" y="34" width="128" height="80" fill="#34466d"/>
-    <rect x="56" y="46" width="104" height="56" fill="#17233f"/>
-    <rect x="72" y="62" width="24" height="16" fill="#66e3ff"/>
-    <rect x="120" y="62" width="24" height="16" fill="#66e3ff"/>
-    <rect x="96" y="86" width="24" height="8" fill="#7f91ba"/>
-    <!-- antenna -->
-    <rect x="104" y="0" width="8" height="18" fill="#6579a7"/>
-    <rect x="96" y="0" width="24" height="8" fill="#ffcb55"/>
+    <!-- pixel Hu Tutu: big ears, round face and unruly hair tuft -->
+    <g stroke="#38243a" stroke-width="4">
+      <!-- ears -->
+      <rect x="8" y="50" width="44" height="58" fill="#f0b785"/>
+      <rect x="16" y="62" width="28" height="34" fill="#df7f77"/>
+      <rect x="164" y="50" width="44" height="58" fill="#f0b785"/>
+      <rect x="172" y="62" width="28" height="34" fill="#df7f77"/>
 
-    <!-- body and arms -->
-    <rect x="60" y="114" width="96" height="72" fill="#2b865e"/>
-    <rect x="76" y="126" width="64" height="44" fill="#173e3d"/>
-    <rect x="84" y="134" width="48" height="28" fill="#70d44b"/>
-    <rect x="28" y="122" width="32" height="56" fill="#34466d"/>
-    <rect x="156" y="122" width="32" height="56" fill="#34466d"/>
-    <rect x="20" y="162" width="40" height="24" fill="#d1b18b"/>
-    <rect x="156" y="162" width="40" height="24" fill="#d1b18b"/>
-    <!-- glowing build cube -->
-    <rect x="92" y="142" width="32" height="32" fill="#ffcb55" stroke="#fff0a5" stroke-width="4"/>
-    <rect x="100" y="150" width="16" height="16" fill="#ff8f3d"/>
-    <!-- legs -->
-    <rect x="68" y="186" width="36" height="42" fill="#25365f"/>
-    <rect x="112" y="186" width="36" height="42" fill="#25365f"/>
-    <rect x="60" y="220" width="52" height="16" fill="#17233f"/>
-    <rect x="104" y="220" width="52" height="16" fill="#17233f"/>
+      <!-- round pixel face -->
+      <rect x="60" y="14" width="96" height="8" fill="#f4c18f"/>
+      <rect x="44" y="22" width="128" height="16" fill="#f4c18f"/>
+      <rect x="36" y="38" width="144" height="66" fill="#f4c18f"/>
+      <rect x="44" y="104" width="128" height="16" fill="#f4c18f"/>
+      <rect x="60" y="120" width="96" height="8" fill="#f4c18f"/>
+    </g>
+
+    <!-- three-piece hair tuft -->
+    <rect x="92" y="0" width="8" height="22" fill="#33273a"/>
+    <rect x="104" y="4" width="8" height="18" fill="#33273a"/>
+    <rect x="116" y="0" width="8" height="22" fill="#33273a"/>
+    <rect x="88" y="0" width="16" height="6" fill="#33273a"/>
+    <rect x="112" y="0" width="16" height="6" fill="#33273a"/>
+
+    <!-- Tutu face -->
+    <rect x="68" y="58" width="12" height="18" fill="#19182a"/>
+    <rect x="136" y="58" width="12" height="18" fill="#19182a"/>
+    <rect x="64" y="50" width="20" height="5" fill="#503444"/>
+    <rect x="132" y="50" width="20" height="5" fill="#503444"/>
+    <rect x="102" y="72" width="12" height="10" fill="#dc876e"/>
+    <rect x="84" y="88" width="8" height="8" fill="#d85f68"/>
+    <rect x="124" y="88" width="8" height="8" fill="#d85f68"/>
+    <rect x="92" y="92" width="32" height="6" fill="#6c3548"/>
+    <rect x="100" y="98" width="16" height="5" fill="#f7e6c3"/>
+
+    <!-- red star shirt and open arms -->
+    <rect x="56" y="128" width="104" height="70" fill="#e84f4f" stroke="#8f2f45" stroke-width="4"/>
+    <rect x="32" y="134" width="24" height="42" fill="#e84f4f" stroke="#8f2f45" stroke-width="4"/>
+    <rect x="160" y="134" width="24" height="42" fill="#e84f4f" stroke="#8f2f45" stroke-width="4"/>
+    <rect x="12" y="164" width="44" height="24" fill="#f0b785" stroke="#38243a" stroke-width="4"/>
+    <rect x="160" y="164" width="44" height="24" fill="#f0b785" stroke="#38243a" stroke-width="4"/>
+    <!-- yellow star -->
+    <rect x="100" y="142" width="16" height="42" fill="#ffd85a"/>
+    <rect x="84" y="154" width="48" height="18" fill="#ffd85a"/>
+    <rect x="92" y="148" width="32" height="30" fill="#ffd85a"/>
+
+    <!-- blue shorts, legs and shoes -->
+    <rect x="60" y="198" width="96" height="30" fill="#3968a9" stroke="#24355d" stroke-width="4"/>
+    <rect x="72" y="228" width="28" height="34" fill="#f0b785"/>
+    <rect x="116" y="228" width="28" height="34" fill="#f0b785"/>
+    <rect x="60" y="254" width="48" height="16" fill="#e7f0f2" stroke="#26354f" stroke-width="4"/>
+    <rect x="108" y="254" width="48" height="16" fill="#e7f0f2" stroke="#26354f" stroke-width="4"/>
   </g>
 
   <!-- Grass and underground blocks -->
@@ -119,3 +143,4 @@
     </g>
   </g>
 </svg>
+
