@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/agent-ops-header.svg" width="100%" alt="Wenjun You — AI Operations Console" />
+  <img src="./assets/agent-ops-header.svg" width="100%" alt="Dario.Y — AI Operations Console" />
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
     <td width="62%" valign="top">
       <h3>把 AI 能力装进真实工作流。</h3>
       <p>
-        我是 <strong>Wenjun You</strong>，一名 AI Frontend Engineer。我的工作位于产品界面、
+        我是 <strong>Dario.Y</strong>，一名 AI Frontend Engineer。我的工作位于产品界面、
         Agent 系统与自动化交付的交叉点：让模型能力可操作、让复杂流程可观察、让实验真正进入生产。
       </p>
       <p><em>I design the interface between people, AI, and real work.</em></p>
@@ -118,5 +118,5 @@ STATUS  Open to useful systems</code></pre>
 
 <p align="center">
   <code>BUILD / OBSERVE / SHIP</code><br/>
-  <sub>WENJUN YOU · AI OPERATIONS · 2026</sub>
+  <sub>DARIO.Y · AI OPERATIONS · 2026</sub>
 </p>

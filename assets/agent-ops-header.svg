@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-  <title id="title">Wenjun You — AI Operations Console</title>
+  <title id="title">Dario.Y — AI Operations Console</title>
   <desc id="desc">An original industrial control-panel header for an AI frontend engineer and agent systems builder.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
@@ -28,7 +28,7 @@
 
   <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
     <text x="52" y="62" fill="#55d6be" font-size="13" letter-spacing="3">OPS CONSOLE / 424758400 / CN-SH</text>
-    <text x="52" y="135" fill="#eef4f1" font-size="56" font-weight="700" letter-spacing="1">WENJUN / YOU</text>
+    <text x="52" y="135" fill="#eef4f1" font-size="68" font-weight="700" letter-spacing="2">DARIO.Y</text>
     <rect x="52" y="156" width="91" height="3" fill="#ff6b35"/>
     <text x="52" y="196" fill="#ff8a5b" font-size="20" font-weight="700" letter-spacing="3">AI FRONTEND ENGINEER</text>
     <text x="52" y="229" fill="#8ca2a7" font-size="15" letter-spacing="1.5">AGENT SYSTEMS · PRODUCT INTERFACES · AUTOMATION</text>
