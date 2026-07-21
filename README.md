@@ -25,6 +25,8 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wenjunyun123/Wenjunyun123/output/github-contribution-grid-snake.svg" />
     <img src="https://raw.githubusercontent.com/Wenjunyun123/Wenjunyun123/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
   </picture>
+  <br/>
+  <sub>The snake grows linearly with the real contribution count it eats.</sub>
 </div>
 
 <br/>
