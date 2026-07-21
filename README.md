@@ -1,61 +1,59 @@
 <p align="center">
-  <img src="./assets/agent-ops-header.svg" width="100%" alt="Dario.Y — AI Operations Console" />
+  <img src="./assets/pixel-agent-world.svg" width="100%" alt="Dario.Y Pixel Agent World" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Wenjunyun123"><strong>GITHUB / CODE</strong></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://space.bilibili.com/424758400"><strong>BILIBILI / SIGNAL</strong></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/Wenjunyun123?tab=repositories"><strong>PROJECTS / INDEX</strong></a>
+  <a href="https://github.com/Wenjunyun123"><strong>⌂ HOME</strong></a>
+  &nbsp;&nbsp;│&nbsp;&nbsp;
+  <a href="https://github.com/Wenjunyun123?tab=repositories"><strong>▦ WORLDS</strong></a>
+  &nbsp;&nbsp;│&nbsp;&nbsp;
+  <a href="https://space.bilibili.com/424758400"><strong>▶ BILIBILI</strong></a>
 </p>
 
 ---
 
-## `00 / OPERATOR`
+## `PLAYER_01 // PROFILE`
 
 <table>
   <tr>
-    <td width="62%" valign="top">
-      <h3>把 AI 能力装进真实工作流。</h3>
+    <td width="58%" valign="top">
+      <h3>Hey, I'm Dario.Y.</h3>
       <p>
-        我是 <strong>Dario.Y</strong>，一名 AI Frontend Engineer。我的工作位于产品界面、
-        Agent 系统与自动化交付的交叉点：让模型能力可操作、让复杂流程可观察、让实验真正进入生产。
+        AI Frontend Engineer & Agent Builder。<br/>
+        我把模型、界面和自动化流程拼成真正能用的产品系统。
       </p>
-      <p><em>I design the interface between people, AI, and real work.</em></p>
+      <p><strong>Current quest:</strong> 让 AI 能力更可操作，让复杂工作流更可观察。</p>
     </td>
-    <td width="38%" valign="top">
-      <pre><code>ROLE    AI Frontend Engineer
-MODE    Build → Observe → Ship
-FOCUS   Agent / UI / Automation
-BASE    Shanghai, CN
-STATUS  Open to useful systems</code></pre>
+    <td width="42%" valign="top">
+      <pre><code>CLASS   AI Frontend Engineer
+MODE    Creative / Shipping
+SPAWN   Shanghai, CN
+BUFF    Agent + UI + Automation
+MOTTO   Systems, not demos.</code></pre>
     </td>
   </tr>
 </table>
 
-> **OPERATING PRINCIPLE** — Ship useful systems, not just impressive demos.
+## `QUEST LOG // SELECTED BUILDS`
 
-## `01 / SYSTEM INDEX`
-
-| ID | System | What it explores | Public signal |
+| Slot | Build | Quest objective | Materials |
 |:--:|:--|:--|:--|
-| `A-01` | **[Personal Website](https://github.com/Wenjunyun123/personal-website-development)** | AI 工程师个人品牌、双语内容与前端交付 | TypeScript · Next.js · MDX |
-| `A-02` | **[Codex Skill Knowledge Base](https://github.com/Wenjunyun123/codex-skill-github-repo)** | 仓库研究、Agent Skills 与可复用自动化流程 | Python · Shell · TypeScript |
-| `A-03` | **[Deep Learning Coach](https://github.com/Wenjunyun123/deep-learning-coach)** | 用苏格拉底式提问构建主动学习体验 | Agent Skill · Learning UX |
-| `A-04` | **[Personal Knowledge Base](https://github.com/Wenjunyun123/Personal-Knowledge-Base)** | 把零散探索沉淀成可检索、可连接的知识系统 | Knowledge Ops · Markdown |
+| `01` | **[Personal Website](https://github.com/Wenjunyun123/personal-website-development)** | 构建面向招聘与技术品牌的双语个人站点 | TypeScript · Next.js · MDX |
+| `02` | **[Codex Skill Knowledge Base](https://github.com/Wenjunyun123/codex-skill-github-repo)** | 把仓库研究沉淀成可复用的 Agent Skills | Python · Shell · TypeScript |
+| `03` | **[Deep Learning Coach](https://github.com/Wenjunyun123/deep-learning-coach)** | 用苏格拉底式提问设计主动学习体验 | Agent Skill · Learning UX |
+| `04` | **[Personal Knowledge Base](https://github.com/Wenjunyun123/Personal-Knowledge-Base)** | 建造可检索、可连接、持续生长的知识世界 | Knowledge Ops · Markdown |
 
-## `02 / TOOLCHAIN MAP`
+## `INVENTORY // STACK & TOOLS`
 
 <div align="center">
 
-### `L0 — PRODUCT INTERFACE`
+### `HOTBAR — PRODUCT INTERFACE`
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,tailwind,nodejs,python,md&theme=dark&perline=11" alt="Frontend and product interface tools" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,tailwind,nodejs,python,md&theme=dark&perline=11" alt="Product interface inventory" />
 
-### `L1 — AGENT RUNTIME`
+### `CRAFTING — AGENT ENGINEERING`
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,postman,graphql,docker&theme=dark&perline=6" alt="Agent engineering foundations" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,postman,graphql,docker&theme=dark&perline=6" alt="Agent engineering inventory" />
 
 <p>
   <kbd>OpenAI API</kbd>
@@ -65,9 +63,9 @@ STATUS  Open to useful systems</code></pre>
   <kbd>n8n</kbd>
 </p>
 
-### `L2 — AI CODING ENVIRONMENT`
+### `TOOL BELT — AI CODING`
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,linux,windows,powershell,bash,docker&theme=dark&perline=8" alt="Developer environment tools" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,linux,windows,powershell,bash,docker&theme=dark&perline=8" alt="AI coding tool belt" />
 
 <p>
   <kbd>OpenAI Codex</kbd>
@@ -76,9 +74,9 @@ STATUS  Open to useful systems</code></pre>
   <kbd>GitHub CLI</kbd>
 </p>
 
-### `L3 — DELIVERY & DESIGN`
+### `WORKBENCH — DELIVERY & DESIGN`
 
-<img src="https://skillicons.dev/icons?i=githubactions,vercel,figma,ai,ps,pr,ae,xd&theme=dark&perline=8" alt="Delivery and design tools" />
+<img src="https://skillicons.dev/icons?i=githubactions,vercel,figma,ai,ps,pr,ae,xd&theme=dark&perline=8" alt="Delivery and design workbench" />
 
 <p>
   <kbd>Tencent EdgeOne</kbd>
@@ -89,10 +87,10 @@ STATUS  Open to useful systems</code></pre>
 
 </div>
 
-## `03 / SYSTEM TELEMETRY`
+## `WORLD STATS // GITHUB MAP`
 
 <p align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wenjunyun123&theme=github_dark" alt="GitHub profile telemetry" />
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wenjunyun123&theme=github_dark" alt="Dario.Y GitHub world stats" />
 </p>
 
 <p align="center">
@@ -100,16 +98,16 @@ STATUS  Open to useful systems</code></pre>
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Wenjunyun123&theme=github_dark" alt="Most committed languages" />
 </p>
 
-## `04 / OPEN CHANNEL`
+## `PORTAL // BILIBILI`
 
 <table>
   <tr>
     <td width="72%">
-      <strong>BILIBILI TRANSMISSION / 424758400</strong><br/>
-      <sub>AI 工具、Agent 工作流、前端实践与正在发生的技术探索。</sub>
+      <strong>CHANNEL 424758400 IS ONLINE</strong><br/>
+      <sub>AI 工具、Agent 工作流、前端实践，以及 Dario.Y 正在建造的新世界。</sub>
     </td>
     <td width="28%" align="right">
-      <a href="https://space.bilibili.com/424758400"><strong>OPEN CHANNEL ↗</strong></a>
+      <a href="https://space.bilibili.com/424758400"><strong>ENTER PORTAL ▶</strong></a>
     </td>
   </tr>
 </table>
@@ -117,6 +115,6 @@ STATUS  Open to useful systems</code></pre>
 ---
 
 <p align="center">
-  <code>BUILD / OBSERVE / SHIP</code><br/>
-  <sub>DARIO.Y · AI OPERATIONS · 2026</sub>
+  <code>BUILD ▪ EXPLORE ▪ SHIP ▪ REPEAT</code><br/>
+  <sub>DARIO.Y / PLAYER_01 / 2026</sub>
 </p>

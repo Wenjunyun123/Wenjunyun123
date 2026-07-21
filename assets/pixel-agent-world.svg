@@ -1,0 +1,121 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc" shape-rendering="crispEdges">
+  <title id="title">Dario.Y Pixel Agent World</title>
+  <desc id="desc">An original pixel-art world with a blocky AI builder, agent forge, stars and inventory slots.</desc>
+
+  <!-- Night world -->
+  <rect width="1200" height="420" fill="#0b1026"/>
+  <rect y="12" width="1200" height="300" fill="#111a38"/>
+  <rect y="140" width="1200" height="172" fill="#162347"/>
+
+  <!-- Pixel stars -->
+  <g fill="#f8e7a1">
+    <rect x="55" y="42" width="6" height="6"/><rect x="184" y="78" width="4" height="4"/>
+    <rect x="308" y="34" width="5" height="5"/><rect x="482" y="72" width="7" height="7"/>
+    <rect x="620" y="45" width="4" height="4"/><rect x="748" y="91" width="6" height="6"/>
+    <rect x="852" y="38" width="5" height="5"/><rect x="1128" y="64" width="7" height="7"/>
+  </g>
+  <g fill="#66e3ff">
+    <rect x="116" y="116" width="5" height="5"/><rect x="408" y="109" width="4" height="4"/>
+    <rect x="692" y="126" width="5" height="5"/><rect x="1044" y="112" width="4" height="4"/>
+  </g>
+
+  <!-- Pixel moon -->
+  <g transform="translate(1010 38)">
+    <rect x="16" y="0" width="48" height="8" fill="#fff2b6"/>
+    <rect x="8" y="8" width="64" height="8" fill="#fff2b6"/>
+    <rect x="0" y="16" width="72" height="40" fill="#fff2b6"/>
+    <rect x="8" y="56" width="64" height="8" fill="#fff2b6"/>
+    <rect x="16" y="64" width="48" height="8" fill="#fff2b6"/>
+    <rect x="16" y="16" width="12" height="12" fill="#e8d894"/>
+    <rect x="48" y="38" width="16" height="12" fill="#e8d894"/>
+  </g>
+
+  <!-- Distant block mountains -->
+  <path d="M0 248h72v-24h40v-24h48v-32h40v32h48v24h64v24h88v64H0z" fill="#1d2c52"/>
+  <path d="M510 312v-48h56v-40h48v-24h40v24h48v40h64v48z" fill="#20335a"/>
+  <path d="M915 312v-32h44v-40h48v-24h40v24h48v40h105v32z" fill="#1b2a50"/>
+
+  <!-- Title panel -->
+  <g font-family="'Courier New', ui-monospace, monospace">
+    <rect x="48" y="52" width="650" height="196" fill="#090d1c" stroke="#51618e" stroke-width="4"/>
+    <rect x="56" y="60" width="634" height="180" fill="none" stroke="#25365f" stroke-width="4"/>
+    <rect x="68" y="72" width="14" height="14" fill="#70d44b"/>
+    <text x="94" y="84" fill="#9db0d9" font-size="14" font-weight="700" letter-spacing="2">PLAYER_01 / CREATIVE MODE</text>
+    <text x="76" y="157" fill="#050712" font-size="68" font-weight="900" letter-spacing="4">DARIO.Y</text>
+    <text x="71" y="152" fill="#f7f2d0" font-size="68" font-weight="900" letter-spacing="4">DARIO.Y</text>
+    <rect x="72" y="169" width="340" height="8" fill="#66e3ff"/>
+    <rect x="412" y="169" width="118" height="8" fill="#ffcb55"/>
+    <text x="72" y="206" fill="#78e08f" font-size="17" font-weight="700" letter-spacing="2">AI FRONTEND · AGENT BUILDER</text>
+    <text x="72" y="229" fill="#788bb6" font-size="12" letter-spacing="1.2">CRAFTING USEFUL SYSTEMS, ONE BLOCK AT A TIME.</text>
+  </g>
+
+  <!-- Pixel agent forge -->
+  <g transform="translate(790 112)">
+    <!-- portal frame -->
+    <rect x="230" y="12" width="104" height="160" fill="#291f48"/>
+    <rect x="242" y="24" width="80" height="136" fill="#5b3d8e"/>
+    <rect x="254" y="36" width="56" height="112" fill="#48d6d2"/>
+    <rect x="262" y="44" width="40" height="96" fill="#132d54"/>
+    <rect x="270" y="52" width="24" height="80" fill="#7fe6ff" opacity="0.65"/>
+
+    <!-- builder head -->
+    <rect x="60" y="18" width="96" height="16" fill="#233150"/>
+    <rect x="44" y="34" width="128" height="80" fill="#34466d"/>
+    <rect x="56" y="46" width="104" height="56" fill="#17233f"/>
+    <rect x="72" y="62" width="24" height="16" fill="#66e3ff"/>
+    <rect x="120" y="62" width="24" height="16" fill="#66e3ff"/>
+    <rect x="96" y="86" width="24" height="8" fill="#7f91ba"/>
+    <!-- antenna -->
+    <rect x="104" y="0" width="8" height="18" fill="#6579a7"/>
+    <rect x="96" y="0" width="24" height="8" fill="#ffcb55"/>
+
+    <!-- body and arms -->
+    <rect x="60" y="114" width="96" height="72" fill="#2b865e"/>
+    <rect x="76" y="126" width="64" height="44" fill="#173e3d"/>
+    <rect x="84" y="134" width="48" height="28" fill="#70d44b"/>
+    <rect x="28" y="122" width="32" height="56" fill="#34466d"/>
+    <rect x="156" y="122" width="32" height="56" fill="#34466d"/>
+    <rect x="20" y="162" width="40" height="24" fill="#d1b18b"/>
+    <rect x="156" y="162" width="40" height="24" fill="#d1b18b"/>
+    <!-- glowing build cube -->
+    <rect x="92" y="142" width="32" height="32" fill="#ffcb55" stroke="#fff0a5" stroke-width="4"/>
+    <rect x="100" y="150" width="16" height="16" fill="#ff8f3d"/>
+    <!-- legs -->
+    <rect x="68" y="186" width="36" height="42" fill="#25365f"/>
+    <rect x="112" y="186" width="36" height="42" fill="#25365f"/>
+    <rect x="60" y="220" width="52" height="16" fill="#17233f"/>
+    <rect x="104" y="220" width="52" height="16" fill="#17233f"/>
+  </g>
+
+  <!-- Grass and underground blocks -->
+  <rect y="312" width="1200" height="12" fill="#78d44b"/>
+  <rect y="324" width="1200" height="32" fill="#4f9f46"/>
+  <rect y="356" width="1200" height="64" fill="#5d4637"/>
+  <g fill="#795944">
+    <rect x="0" y="356" width="48" height="32"/><rect x="96" y="388" width="48" height="32"/>
+    <rect x="240" y="356" width="48" height="32"/><rect x="384" y="388" width="48" height="32"/>
+    <rect x="528" y="356" width="48" height="32"/><rect x="672" y="388" width="48" height="32"/>
+    <rect x="816" y="356" width="48" height="32"/><rect x="960" y="388" width="48" height="32"/>
+    <rect x="1104" y="356" width="48" height="32"/>
+  </g>
+
+  <!-- Inventory bar -->
+  <g transform="translate(290 330)" font-family="'Courier New', monospace" font-weight="700">
+    <rect width="620" height="72" fill="#141a2b" stroke="#8898b8" stroke-width="4"/>
+    <g transform="translate(14 12)">
+      <rect width="172" height="48" fill="#202a44" stroke="#66e3ff" stroke-width="3"/>
+      <rect x="12" y="12" width="24" height="24" fill="#66e3ff"/>
+      <text x="48" y="31" fill="#edf4ff" font-size="14">CODEX</text>
+    </g>
+    <g transform="translate(224 12)">
+      <rect width="172" height="48" fill="#202a44" stroke="#ffcb55" stroke-width="3"/>
+      <rect x="12" y="12" width="24" height="24" fill="#ff8f3d"/>
+      <text x="48" y="31" fill="#edf4ff" font-size="14">CLAUDE</text>
+    </g>
+    <g transform="translate(434 12)">
+      <rect width="172" height="48" fill="#202a44" stroke="#78d44b" stroke-width="3"/>
+      <rect x="12" y="12" width="24" height="24" fill="#78d44b"/>
+      <text x="48" y="31" fill="#edf4ff" font-size="14">OPENCODE</text>
+    </g>
+  </g>
+</svg>
