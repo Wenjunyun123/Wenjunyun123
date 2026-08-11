@@ -1,0 +1,38 @@
+name: Update streak stats
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  push:
+    paths:
+      - ".github/workflows/streak-stats.yml"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+
+      - name: Download and validate streak SVG
+        shell: bash
+        run: |
+          mkdir -p profile
+          curl --fail --silent --show-error --location --retry 3 \
+            --output profile/streak.svg \
+            "https://streak-stats.demolab.com/?user=${{ github.repository_owner }}&theme=tokyonight&hide_border=true&ring=38BDAE&fire=7AA2F7&currStreakLabel=38BDAE&sideNums=7AA2F7&currStreakNum=7AA2F7&disable_animations=true"
+          grep --quiet "<svg" profile/streak.svg
+
+      - name: Commit updated SVG
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/streak.svg
+          git diff --cached --quiet && exit 0
+          git commit -m "Update streak stats"
+          git push
